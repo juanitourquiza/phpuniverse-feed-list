@@ -58,3 +58,15 @@ Joomla Announcements: http://www.joomla.org/announcements
 bbpress: http://bbpress.org/
 
 Magento: http://www.magentocommerce.com/blog
+
+Abdul Malik Ikhsan blog: http://samsonasik.wordpress.com
+
+Rob Allen blog:  http://akrabat.com/
+
+Ralph Schindler blog: http://ralphschindler.com/
+
+Ryan Mauger blog: http://www.rmauger.co.uk/
+
+Pádraic Brady blog: http://blog.astrumfutura.com/
+
+Enrico Zimuel blog: http://www.zimuel.it/
