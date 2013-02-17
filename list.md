@@ -56,3 +56,5 @@ Drupal news: http://drupal.org/
 Joomla Announcements: http://www.joomla.org/announcements
 
 bbpress: http://bbpress.org/
+
+Magento: http://www.magentocommerce.com/blog
