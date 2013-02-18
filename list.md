@@ -70,3 +70,7 @@ Ryan Mauger blog: http://www.rmauger.co.uk/
 Pádraic Brady blog: http://blog.astrumfutura.com/
 
 Enrico Zimuel blog: http://www.zimuel.it/
+
+PHPbb: https://www.phpbb.com/
+
+Simon Holywell blog:  http://simonholywell.com/
