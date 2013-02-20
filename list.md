@@ -74,3 +74,15 @@ Enrico Zimuel blog: http://www.zimuel.it/
 PHPbb: https://www.phpbb.com/
 
 Simon Holywell blog:  http://simonholywell.com/
+
+Cal Evans blog:  http://blog.calevans.com/
+
+Matthew Weier O’Phinney blog: http://www.mwop.net/blog.html
+
+Chris Hartjes blog: http://www.littlehart.net/atthekeyboard/
+
+MongoDB: http://blog.mongodb.org/
+
+Paul M. Jones blog:  http://paul-m-jones.com/
+
+Paulund blog: http://www.paulund.co.uk
