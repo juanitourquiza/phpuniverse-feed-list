@@ -86,3 +86,13 @@ MongoDB: http://blog.mongodb.org/
 Paul M. Jones blog:  http://paul-m-jones.com/
 
 Paulund blog: http://www.paulund.co.uk
+
+Nginx server: http://nginx.org
+
+Lorna Jane blog: http://www.lornajane.net/
+
+PHP Classes: http://www.phpclasses.org/blog/
+
+Joshua Thijssen blog: http://www.adayinthelifeof.nl
+
+Wptuts: http://wp.tutsplus.com/
