@@ -96,3 +96,17 @@ PHP Classes: http://www.phpclasses.org/blog/
 Joshua Thijssen blog: http://www.adayinthelifeof.nl
 
 Wptuts: http://wp.tutsplus.com/
+
+Nginx server: http://nginx.org
+
+Lorna Jane blog: http://www.lornajane.net/
+
+PHP Classes: http://www.phpclasses.org/blog/
+
+Joshua Thijssen blog: http://www.adayinthelifeof.nl
+
+Wptuts: http://wp.tutsplus.com/
+
+MariaDB: http://blog.mariadb.org/
+
+Postgresql: version http://www.postgresql.org/versions.rss
