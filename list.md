@@ -110,3 +110,5 @@ Wptuts: http://wp.tutsplus.com/
 MariaDB: http://blog.mariadb.org/
 
 Postgresql: version http://www.postgresql.org/versions.rss
+
+Juan Urquiza - hackeruna.com http://www.hackeruna.com
